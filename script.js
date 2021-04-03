@@ -1,10 +1,6 @@
 document.addEventListener("click", function () {
     textareaObject.value= "text";
+    localStorage.setItem("textarea", "");
 })
-// total confusion in utilization of moment.js
-var now = moment();
 
-document.getElementsByClassName.hour {
-
-}
 
