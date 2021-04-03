@@ -1,3 +1,10 @@
 document.addEventListener("click", function () {
     textareaObject.value= "text";
-})//adding event listener for save buttons and seting text area value
+})
+// total confusion in utilization of moment.js
+var now = moment();
+
+document.getElementsByClassName.hour {
+
+}
+
